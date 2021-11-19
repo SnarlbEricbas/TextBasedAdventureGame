@@ -1,0 +1,8 @@
+﻿  TextBasedAdventure.cpp
+  functionsForGame.cpp
+C:\Users\ericb\source\repos\TextBasedAdventureGame\TextBasedAdventure\functionsForGame.cpp(38,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ericb\source\repos\TextBasedAdventureGame\TextBasedAdventure\functionsForGame.cpp(584,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ericb\source\repos\TextBasedAdventureGame\TextBasedAdventure\functionsForGame.cpp(593,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\ericb\source\repos\TextBasedAdventureGame\TextBasedAdventure\functionsForGame.cpp(419): warning C4717: 'getHelp': recursive on all control paths, function will cause runtime stack overflow
+  TextBasedAdventure.vcxproj -> C:\Users\ericb\Source\Repos\TextBasedAdventureGame\x64\Debug\TextBasedAdventure.exe
